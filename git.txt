@@ -1,0 +1,9 @@
+create a venv in the repo: "python -m venv venv"
+
+"venv\Scripts\activate" to get into the venv environment
+-can tell you're in the venv when it says (venv)
+-in there, pip install whatever packages you need to
+
+to add the installed ones to requirements.txt file, do "pip freeze > requirements.txt"
+
+to leave .venv, enter "deactivate"
