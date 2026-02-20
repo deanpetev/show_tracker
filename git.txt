@@ -7,3 +7,7 @@ create a venv in the repo: "python -m venv venv"
 to add the installed ones to requirements.txt file, do "pip freeze > requirements.txt"
 
 to leave .venv, enter "deactivate"
+
+git add .
+git commit -m "..."
+git push origin main
